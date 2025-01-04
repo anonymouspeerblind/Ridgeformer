@@ -2,7 +2,7 @@
 
 ### Code for anonymous submission in IWBF 2025
 
-![fingerprint_main_dia](https://github.com/user-attachments/assets/5bdb4d46-5cea-4ca2-a001-8406689543cb)
+![fingerprint_main_dia](https://github.com/user-attachments/assets/65428351-65b6-49f1-9474-d969d2f919f9)
 
 ## Installations and environment creation
 - conda create -n ridgeformer python=3.8.19
@@ -139,7 +139,7 @@ All tensorboard logs are saved in experiment_logs directory
 > [Ridgebase dataset github](https://github.com/bhavinjawade/RidgeBase_Fingerprint_Camera_App)
 
 ## Contact
-For more information or any questions, feel free to reach us at spandey8@buffalo.edu
+For more information or any questions, feel free to reach us at anonymouspeerblind@gmail.com
 
 ## License
 Ridgeformer is CC-BY-NC 4.0 licensed, as found in the LICENSE file. It is released for academic research / non-commercial use only.
