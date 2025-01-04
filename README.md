@@ -53,7 +53,7 @@ Unique_finger_id_2:{
 ```
 
 ### Pretrained models and Finetuned checkpoints
-Download the zip file from [Link](https://buffalo.box.com/s/8wmvwhmvbmfsy8j7lr7ppa30bxe3hvws) and unzip the contents in ridgeformer_checkpoints directory to use in evaluation and training scripts
+Download the zip file from [Link](https://drive.google.com/file/d/11VrXKJyJoD-lXSLVC6pt9adoWxFQ-f7H/view?usp=sharing) and unzip the contents in ridgeformer_checkpoints directory to use in evaluation and training scripts
 
 ## Training
 Stage 1 - train_combined.py is used to train the model on Stage 1 of our architecture
