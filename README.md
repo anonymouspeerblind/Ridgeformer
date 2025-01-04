@@ -2,7 +2,7 @@
 
 ### Code for anonymous submission in IWBF 2025
 
-![fingerprint_main_dia](https://github.com/user-attachments/assets/65428351-65b6-49f1-9474-d969d2f919f9)
+![fingerprint_main_dia](https://github.com/user-attachments/assets/01aba49a-c06f-49da-adf8-648df979d210)
 
 ## Installations and environment creation
 - conda create -n ridgeformer python=3.8.19
