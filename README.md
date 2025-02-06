@@ -1,6 +1,6 @@
 # Ridgeformer: a Cross Domain Fingerprint Matching Network
 
-### Code for anonymous submission in IWBF 2025
+### Code for anonymous submission in ICIP 2025
 
 ![ridgeformer](https://github.com/user-attachments/assets/60ee24c6-73e2-445e-a5d5-9b8b5580eee5)
 
