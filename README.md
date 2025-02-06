@@ -136,7 +136,6 @@ All tensorboard logs are saved in experiment_logs directory
   keywords={Sensors;Strain;Deformable models;Image sensors;Interoperability;Databases;Splines (mathematics);Contactless fingerprint sensor interoperability;biometrics;deformation correction model (DCM)},
   doi={10.1109/TIP.2017.2788866}}
 ```
-> [Ridgebase dataset github](https://github.com/bhavinjawade/RidgeBase_Fingerprint_Camera_App)
 
 ## Contact
 For more information or any questions, feel free to reach us at anonymouspeerblind@gmail.com
